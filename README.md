@@ -92,14 +92,13 @@ The **Olympics Analysis** project provides a comprehensive overview of Olympic d
 
 ## Future Work
 
-Potential future work includes:
+Potential future work can include:
 
-- **Data Expansion**: Expanding the analysis to include more recent Olympic data, particularly from the Tokyo 2020 Olympics and beyond, to capture the latest trends.
+- **Data Expansion**: The analysis can be expanded to include more recent Olympic data, particularly from the Tokyo 2020 Olympics and beyond, to capture the latest trends.
 
-- **Machine Learning Models**: Incorporating machine learning models to predict future performance trends based on historical data, which could help in forecasting medal counts for upcoming Olympics.
+- **Machine Learning Models**: Machine learning models can be incorporated to predict future performance trends based on historical data, aiding in forecasting medal counts for upcoming Olympics.
 
-- **In-depth Analysis**: Analyzing the impact of specific training programs, funding, or governmental support on athlete success, which could provide insights into how countries can improve their Olympic performance.
-
+- **In-depth Analysis**: The impact of specific training programs, funding, or governmental support on athlete success can be analyzed, offering insights into how countries can improve their Olympic performance.
 ## Acknowledgments
 
 Thank you to all data providers and contributors who made this analysis possible. Special thanks to the open-source community for providing valuable tools and libraries that facilitated the data analysis process.
